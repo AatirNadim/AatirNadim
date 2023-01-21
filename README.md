@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mohammad Aatir Nadim</h1>
 <h3 align="center">A coder throughout, with a flair for penning lyres as poems.</h3>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+
 - 🔭 I’m currently working on **MERN Memoir (mern project)**
 
 - 🌱 I’m currently learning **React, React Native and Nextjs.**
