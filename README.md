@@ -17,6 +17,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://dev.to/aatir_nadim_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="aatir_nadim_" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aatirnadim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aatirnadim" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/dreary_dyke" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="dreary_dyke" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/aatir_nadim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aatir_nadim" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/user3405ye" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="user3405ye" height="30" width="40" /></a>
 </p>
 
