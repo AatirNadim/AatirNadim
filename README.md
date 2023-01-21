@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **Any given day, either my genius is elemental or it is non-existent. There is no in between.**
 
-![](https://github.com/Your_Repository_Name/Your_GIF_Name.gif)
+![](https://github.com/AatirNadim/AatirNadim/blob/main/35269-the-guy-with-the-cat-at-the-computer.gif)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
