@@ -15,6 +15,8 @@
 
 - ⚡ Fun fact **Any given day, either my genius is elemental or it is non-existent. There is no in between.**
 
+![](https://github.com/Your_Repository_Name/Your_GIF_Name.gif)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/aatir_nadim_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="aatir_nadim_" height="30" width="40" /></a>
