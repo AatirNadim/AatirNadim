@@ -1,21 +1,26 @@
-<h1 align="center">Hi 👋, I'm Mohammad Aatir Nadim</h1>
+<div width="100%" >
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" alt="image_circuit_broken-better_luck_never" /></div>
+
+<h1 align="center">Hi 👋, Aatir here.</h1>
 <!-- <h3 align="center">A coder throughout, with a flair for penning lyres as poems.</h3> -->
 
 <!-- [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg) -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Hello+%F0%9F%91%8B%2C;I'm+a+CSE+Student...;Thank+you+for+visiting!;Lets+connect!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Hello+%F0%9F%91%8B%2C;I'm+a+CSE+grad...;Thank+you+for+visiting!;Lets+connect!&center=true&size=30">
   </a>
 </h1>
 
 
-- 🔭 I’m currently working on **MERN Memoir (mern project)**
+- 🔭 I’m currently working on **being a better man, all round**.
 
-- 🌱 I’m currently learning **React, React Native and Nextjs.**
+- 🌱 I’m interested in **DevOps, System Design and Cloud Engineering**.
 
-- 🤝 I’m looking for help with **Python development.**
+- 🤝 I have experience **building sales automation software for a prominent startup**.
 
-- 💬 Ask me about **Problem Solving, Logical Analysis and great content to watch.**
+- 🕑 My hobbies include **contemplating my existence, for the most part**.
+
+- 💬 Let's discuss on **problem solving, logical analysis, building better software and great content to consume.**
 
 - 📫 How to reach me **aatir.nadim@gmail.com**
 
@@ -23,7 +28,10 @@
 
 - ⚡ Fun fact **Any given day, either my genius is elemental or it is non-existent. There is no in between.**
 
-![](https://github.com/AatirNadim/AatirNadim/blob/main/35269-the-guy-with-the-cat-at-the-computer.gif)
+![]()
+<br/>
+<br/>
+**Know more about me -** [Aatir Nadim](https://drive.google.com/file/d/1sP8M6hw43yg4N9OvHhf_eXdaOYgMH5aT/view?usp=sharing)
 
 <br/><br/>
 # Connect with me:
@@ -51,8 +59,15 @@
 
 
  <br/> <br/>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aatirnadim&show_icons=true&locale=en&layout=compact" alt="aatirnadim" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aatirnadim&show_icons=true&locale=en" alt="aatirnadim" /></p>
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AatirNadim&theme=radical&hide_border=false" width="100%" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aatirnadim&" alt="aatirnadim" /></p>
+ <div style="width: 100%;display: flex;justify-content: space-between; align-items:start;">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=AatirNadim&theme=radical&hide_border=true&include_all_commits=true&count_private=true" style="width: 58%; height: auto;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AatirNadim&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" style="width: 41%; height: auto;">
+</div>
+
+
+### ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
