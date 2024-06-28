@@ -5,9 +5,9 @@
 <!-- <h3 align="center">A coder throughout, with a flair for penning lyres as poems.</h3> -->
 
 <!-- [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg) -->
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Hello+%F0%9F%91%8B%2C;I'm+a+CSE+grad...;Thank+you+for+visiting!;Lets+connect!&center=true&size=30">
+<h1 align="center" width="100%">
+  <a href="https://git.io/typing-svg" width="100%">
+    <img width="50%" src="https://readme-typing-svg.herokuapp.com?lines=Glad+you+came!;I'm+usually+sensible.+😄;Lets+connect!&center=true&size=25">
   </a>
 </h1>
 
