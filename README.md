@@ -12,17 +12,17 @@
 </h1>
 
 
-- 🔭 I’m currently working on **being a better man, all round**.
+- 🔭 I’m currently working on **expanidng my horizon and finding my footing in the **.
 
 - 🌱 I’m interested in **DevOps, System Design and Cloud Engineering**.
 
-- 🤝 I have experience **building sales automation software for a prominent startup**.
+- 🤝 I have experience **managing e2e features for my team in fintech. Also, built sales automation software for a prominent startup, set it up from bootstrap phase as a founding engineer**.
 
-- 🕑 My hobbies include **contemplating my existence, for the most part**.
+- 🕑 My hobbies include **fiction (as an introspection to reality), music (universal language; connects everyone and everything), driving (controlling the pace and the mood).**.
 
-- 💬 Let's discuss on **problem solving, logical analysis, building better software and great content to consume.**
+- 💬 Let's discuss on **building robust software that serves the end user well and pushes your capacity**
 
-- 📫 How to reach me **aatir.nadim@gmail.com**
+- 📫 **Lets connect! *Socials listed below.***
 
 
 
@@ -31,18 +31,19 @@
 ![]()
 <br/>
 <br/>
-**Know more about me -** [Aatir Nadim](https://drive.google.com/file/d/1sP8M6hw43yg4N9OvHhf_eXdaOYgMH5aT/view?usp=sharing)
+**Know more about me -** [aatir](https://www.linkedin.com/in/aatirnadim/)
+**Mail -** aatir.nadim@gmail.com
 
 <br/><br/>
 # Connect with me:
 <p align="left">
-<!-- <a href="https://dev.to/aatir_nadim_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="aatir_nadim_" height="30" width="40" /></a> -->
-<a href="https://linkedin.com/in/aatirnadim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aatirnadim" height="30" width="40" /></a>
-<!-- <a href="https://www.codechef.com/users/dreary_dyke" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="dreary_dyke" height="30" width="40" /></a> -->
+  <a href="https://linkedin.com/in/aatirnadim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aatirnadim" height="30" width="40" /></a>
+  <a href="https://x.com/AatirNadim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aatir" height="30" width="40" /></a>
+  
+<a href="https://techtom.hashnode.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@techtom" height="30" width="40" /></a>
+
   <a href="https://www.leetcode.com/user3405ye" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="user3405ye" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/aatir_nadim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aatir_nadim" height="30" width="40" /></a>
-
-<!-- <a href="mailto:aatir.nadim@gmail.com"><img align="center" src="https://i.pinimg.com/originals/a1/d1/4b/a1d14ba7881740c8c3e428a75132a2ae.png"  alt="GMail" /></a> -->
 </p>
 <br/> <br/>
 
