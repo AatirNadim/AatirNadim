@@ -31,8 +31,10 @@
 
 <br/>
 <br/>
+
 **Know more about me -** [aatir](https://www.linkedin.com/in/aatirnadim/)
 <br/><br/>
+
 **Mail -** aatir.nadim@gmail.com
 
 <br/><br/>
