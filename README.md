@@ -1,7 +1,9 @@
 <div width="100%" >
-<img width="100%" src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" alt="image_circuit_broken-better_luck_never" /></div>
+<!-- <img width="100%" src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" alt="image_circuit_broken-better_luck_never" /> -->
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="100%">
+</div>
 
-<h1 align="center">Hi 👋, Aatir here.</h1>
+<h1 align="center">Hi 👋</h1>
 <!-- <h3 align="center">A coder throughout, with a flair for penning lyres as poems.</h3> -->
 
 <!-- [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg) -->
