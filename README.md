@@ -7,7 +7,7 @@
 <!-- [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg) -->
 <h1 align="center" width="100%">
   <a href="https://git.io/typing-svg" width="100%">
-    <img width="50%" src="https://readme-typing-svg.herokuapp.com?lines=Glad+you+came!;I'm+usually+sensible.+😄;Lets+connect!&center=true&size=25">
+    <img width="50%" src="https://readme-typing-svg.herokuapp.com?lines=Glad+you're+here!;Lets+connect!&center=true&size=25">
   </a>
 </h1>
 
