@@ -14,7 +14,7 @@
 </h1>
 
 
-- 🔭 I’m currently working on **harnessing efficiency in the world of tekenmaxxing**.
+- 🔭 I’m currently working on **harnessing efficiency in the world of tokenmaxxing**.
 
 - 🌱 I’m interested in **DevOps, System Design, Distributed Engineering, basically everything that finds heavy practical usage**.
 
