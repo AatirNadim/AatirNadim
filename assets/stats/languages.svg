@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="170" viewBox="0 0 720 170" role="img" aria-labelledby="title desc">
+<title id="title">Language mix / all accessible repositories</title><desc id="desc">This stats card will be populated when the scheduled GitHub workflow succeeds.</desc>
+<rect width="720" height="170" rx="18" fill="#090d1d"/><rect x="1" y="1" width="718" height="168" rx="17" fill="none" stroke="#1d1f3f"/>
+<rect x="24" y="28" width="3" height="112" rx="1.5" fill="#44aab5"/>
+<text x="44" y="63" fill="#9ba8c6" font-family="monospace" font-size="12" font-weight="700">LANGUAGE MIX / ALL ACCESSIBLE REPOSITORIES</text>
+<text x="44" y="99" fill="#e5e8f4" font-family="monospace" font-size="17">Waiting for the first successful stats sync.</text>
+<text x="44" y="124" fill="#44aab5" font-family="monospace" font-size="12">Add the GH_STATS_TOKEN repository secret, then run the workflow.</text>
+</svg>
