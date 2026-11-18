@@ -336,6 +336,15 @@ def update_readme(projects: str, updated_at: str) -> None:
     if not date_pattern.search(text):
         raise RuntimeError("README is missing stats-updated markers")
     text = date_pattern.sub(f"{date_start}_Stats last synced: {updated_at} UTC._{date_end}", text, count=1)
+    # GitHub caches rendered README images by URL. Change the URL after each
+    # successful sync so the profile page fetches the newly generated SVGs.
+    cache_key = re.sub(r"[^0-9]", "", updated_at)
+    for asset in ("overview.svg", "activity.svg", "languages.svg"):
+        text = re.sub(
+            rf'(src="assets/stats/{re.escape(asset)})(?:\?v=[^"]*)?(" )',
+            rf"\1?v={cache_key}\2",
+            text,
+        )
     README.write_text(text, encoding="utf-8")
 
 
