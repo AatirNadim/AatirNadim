@@ -33,7 +33,11 @@ I’m a software engineer with experience taking end-to-end fintech features fro
 ## Recent public projects
 
 <!-- recent-projects:start -->
-_Recent public projects will appear here after the first successful stats sync._
+| Project | What it does | Stack | Stars |
+|:--|:--|:--|--:|
+| [kwingineko](https://github.com/AatirNadim/kwingineko) | stuff about stuff | JavaScript | 0 |
+| [plan-parse](https://github.com/AatirNadim/plan-parse) | plan. view. apply. its that simple. | JavaScript | 0 |
+| [getMe](https://github.com/AatirNadim/getMe) | persistent, embeddable key-value store written in golang | Go | 0 |
 <!-- recent-projects:end -->
 
 ## Engineering footprint
@@ -48,7 +52,7 @@ These cards are generated from GitHub data. Repository and language totals inclu
   <img src="assets/stats/languages.svg" alt="Programming language distribution across accessible repositories" width="100%" />
 </p>
 
-<!-- stats-updated:start -->_Stats sync will appear here after the first successful workflow run.<!-- stats-updated:end -->
+<!-- stats-updated:start -->_Stats last synced: 2026-11-18 19:31 UTC._<!-- stats-updated:end -->
 
 ## Toolbox
 
