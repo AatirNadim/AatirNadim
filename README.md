@@ -2,7 +2,9 @@
   <img src="gifs/default.gif" alt="Pixel art of a woman watching a neon city pass from a ferry at night" width="100%" />
 </p>
 
-<h1 align="center">Aatir Nadim</h1>
+<h1 align="center">
+  <img src="assets/name.svg" alt="Aatir Nadim" width="520" />
+</h1>
 
 <p align="center">
   <strong>Building dependable software, useful tools, and systems that hold up in production.</strong><br />
