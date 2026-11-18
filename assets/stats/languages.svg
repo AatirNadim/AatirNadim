@@ -1,8 +1,31 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="720" height="170" viewBox="0 0 720 170" role="img" aria-labelledby="title desc">
-<title id="title">Language mix / all accessible repositories</title><desc id="desc">This stats card will be populated when the scheduled GitHub workflow succeeds.</desc>
-<rect width="720" height="170" rx="18" fill="#090d1d"/><rect x="1" y="1" width="718" height="168" rx="17" fill="none" stroke="#1d1f3f"/>
-<rect x="24" y="28" width="3" height="112" rx="1.5" fill="#44aab5"/>
-<text x="44" y="63" fill="#9ba8c6" font-family="monospace" font-size="12" font-weight="700">LANGUAGE MIX / ALL ACCESSIBLE REPOSITORIES</text>
-<text x="44" y="99" fill="#e5e8f4" font-family="monospace" font-size="17">Waiting for the first successful stats sync.</text>
-<text x="44" y="124" fill="#44aab5" font-family="monospace" font-size="12">Add the GH_STATS_TOKEN repository secret, then run the workflow.</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="190" viewBox="0 0 720 190" role="img" aria-labelledby="title desc">
+  <title id="title">Programming language mix</title>
+  <desc id="desc">A language distribution bar aggregated across accessible repositories. Individual private repository names and language breakdowns are not published.</desc>
+  <rect width="720" height="190" rx="18" fill="#090d1d"/>
+  <rect x="1" y="1" width="718" height="188" rx="17" fill="none" stroke="#1d1f3f"/>
+  <text x="24" y="34" fill="#9ba8c6" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12px" font-weight="700">LANGUAGE MIX / ALL ACCESSIBLE REPOSITORIES</text>
+  <rect x="24" y="55" width="196" height="10" fill="#44aab5"/>
+  <rect x="220" y="55" width="170" height="10" fill="#3074a2"/>
+  <rect x="390" y="55" width="145" height="10" fill="#80509b"/>
+  <rect x="535" y="55" width="38" height="10" fill="#de5b99"/>
+  <rect x="573" y="55" width="31" height="10" fill="#44aa82"/>
+  <rect x="604" y="55" width="92" height="10" fill="#44aab5"/>
+  <circle cx="29" cy="93" r="5" fill="#44aab5"/>
+  <text x="42" y="98" fill="#e5e8f4" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13px" font-weight="700">JavaScript</text>
+  <text x="42" y="118" fill="#9ba8c6" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11px" font-weight="400">29.3%</text>
+  <circle cx="253" cy="93" r="5" fill="#3074a2"/>
+  <text x="266" y="98" fill="#e5e8f4" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13px" font-weight="700">Jupyter Notebook</text>
+  <text x="266" y="118" fill="#9ba8c6" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11px" font-weight="400">25.3%</text>
+  <circle cx="477" cy="93" r="5" fill="#80509b"/>
+  <text x="490" y="98" fill="#e5e8f4" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13px" font-weight="700">TypeScript</text>
+  <text x="490" y="118" fill="#9ba8c6" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11px" font-weight="400">21.6%</text>
+  <circle cx="29" cy="151" r="5" fill="#de5b99"/>
+  <text x="42" y="156" fill="#e5e8f4" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13px" font-weight="700">Python</text>
+  <text x="42" y="176" fill="#9ba8c6" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11px" font-weight="400">5.6%</text>
+  <circle cx="253" cy="151" r="5" fill="#44aa82"/>
+  <text x="266" y="156" fill="#e5e8f4" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13px" font-weight="700">C++</text>
+  <text x="266" y="176" fill="#9ba8c6" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11px" font-weight="400">4.6%</text>
+  <circle cx="477" cy="151" r="5" fill="#44aab5"/>
+  <text x="490" y="156" fill="#e5e8f4" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13px" font-weight="700">Other</text>
+  <text x="490" y="176" fill="#9ba8c6" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11px" font-weight="400">13.7%</text>
 </svg>
