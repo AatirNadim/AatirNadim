@@ -37,9 +37,9 @@ I’m a software engineer with experience taking end-to-end fintech features fro
 <!-- recent-projects:start -->
 | Project | What it does | Stack | Stars |
 |:--|:--|:--|--:|
+| [window](https://github.com/AatirNadim/window) | balanced multi-channel file transfer. get into a room of attendees, send stuff… | TypeScript | 0 |
 | [kwingineko](https://github.com/AatirNadim/kwingineko) | stuff about stuff | JavaScript | 0 |
 | [plan-parse](https://github.com/AatirNadim/plan-parse) | plan. view. apply. its that simple. | JavaScript | 0 |
-| [getMe](https://github.com/AatirNadim/getMe) | persistent, embeddable key-value store written in golang | Go | 0 |
 <!-- recent-projects:end -->
 
 ## Engineering footprint
@@ -47,14 +47,14 @@ I’m a software engineer with experience taking end-to-end fintech features fro
 These cards are generated from GitHub data. Repository and language totals include your owned private repositories; only aggregate values are published. Project names below are fetched from public repositories only.
 
 <p align="center">
-  <img src="assets/stats/overview.svg?v=202611201418" alt="GitHub activity overview: yearly contributions, repositories, stars, and followers" width="100%" />
+  <img src="assets/stats/overview.svg?v=202611211340" alt="GitHub activity overview: yearly contributions, repositories, stars, and followers" width="100%" />
   <br />
-  <img src="assets/stats/activity.svg?v=202611201418" alt="Contribution activity heatmap for the past year" width="100%" />
+  <img src="assets/stats/activity.svg?v=202611211340" alt="Contribution activity heatmap for the past year" width="100%" />
   <br />
-  <img src="assets/stats/languages.svg?v=202611201418" alt="Programming language distribution across accessible repositories" width="100%" />
+  <img src="assets/stats/languages.svg?v=202611211340" alt="Programming language distribution across accessible repositories" width="100%" />
 </p>
 
-<!-- stats-updated:start -->_Stats last synced: 2026-11-20 14:18 UTC._<!-- stats-updated:end -->
+<!-- stats-updated:start -->_Stats last synced: 2026-11-21 13:40 UTC._<!-- stats-updated:end -->
 
 ## Toolbox
 

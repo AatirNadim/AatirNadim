@@ -18,7 +18,7 @@
   <text x="266" y="118" fill="#9ba8c6" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11px" font-weight="400">25.3%</text>
   <circle cx="477" cy="93" r="5" fill="#80509b"/>
   <text x="490" y="98" fill="#e5e8f4" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13px" font-weight="700">TypeScript</text>
-  <text x="490" y="118" fill="#9ba8c6" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11px" font-weight="400">21.6%</text>
+  <text x="490" y="118" fill="#9ba8c6" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11px" font-weight="400">21.5%</text>
   <circle cx="29" cy="151" r="5" fill="#de5b99"/>
   <text x="42" y="156" fill="#e5e8f4" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13px" font-weight="700">Python</text>
   <text x="42" y="176" fill="#9ba8c6" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11px" font-weight="400">5.6%</text>
