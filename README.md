@@ -47,14 +47,14 @@ I’m a software engineer with experience taking end-to-end fintech features fro
 These cards are generated from GitHub data. Repository and language totals include your owned private repositories; only aggregate values are published. Project names below are fetched from public repositories only.
 
 <p align="center">
-  <img src="assets/stats/overview.svg?v=202611211340" alt="GitHub activity overview: yearly contributions, repositories, stars, and followers" width="100%" />
+  <img src="assets/stats/overview.svg?v=202611221333" alt="GitHub activity overview: yearly contributions, repositories, stars, and followers" width="100%" />
   <br />
-  <img src="assets/stats/activity.svg?v=202611211340" alt="Contribution activity heatmap for the past year" width="100%" />
+  <img src="assets/stats/activity.svg?v=202611221333" alt="Contribution activity heatmap for the past year" width="100%" />
   <br />
-  <img src="assets/stats/languages.svg?v=202611211340" alt="Programming language distribution across accessible repositories" width="100%" />
+  <img src="assets/stats/languages.svg?v=202611221333" alt="Programming language distribution across accessible repositories" width="100%" />
 </p>
 
-<!-- stats-updated:start -->_Stats last synced: 2026-11-21 13:40 UTC._<!-- stats-updated:end -->
+<!-- stats-updated:start -->_Stats last synced: 2026-11-22 13:33 UTC._<!-- stats-updated:end -->
 
 ## Toolbox
 
