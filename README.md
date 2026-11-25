@@ -37,8 +37,8 @@ I’m a software engineer with experience taking end-to-end fintech features fro
 <!-- recent-projects:start -->
 | Project | What it does | Stack | Stars |
 |:--|:--|:--|--:|
-| [pockets](https://github.com/AatirNadim/pockets) | build online rooms for anything and everything | TypeScript | 0 |
 | [window](https://github.com/AatirNadim/window) | balanced multi-channel file transfer. get into a room of attendees, send stuff… | TypeScript | 0 |
+| [pockets](https://github.com/AatirNadim/pockets) | build online rooms for anything and everything | TypeScript | 0 |
 | [kwingineko](https://github.com/AatirNadim/kwingineko) | stuff about stuff | JavaScript | 0 |
 <!-- recent-projects:end -->
 
@@ -47,14 +47,14 @@ I’m a software engineer with experience taking end-to-end fintech features fro
 These cards are generated from GitHub data. Repository and language totals include your owned private repositories; only aggregate values are published. Project names below are fetched from public repositories only.
 
 <p align="center">
-  <img src="assets/stats/overview.svg?v=202611241615" alt="GitHub activity overview: yearly contributions, repositories, stars, and followers" width="100%" />
+  <img src="assets/stats/overview.svg?v=202611251558" alt="GitHub activity overview: yearly contributions, repositories, stars, and followers" width="100%" />
   <br />
-  <img src="assets/stats/activity.svg?v=202611241615" alt="Contribution activity heatmap for the past year" width="100%" />
+  <img src="assets/stats/activity.svg?v=202611251558" alt="Contribution activity heatmap for the past year" width="100%" />
   <br />
-  <img src="assets/stats/languages.svg?v=202611241615" alt="Programming language distribution across accessible repositories" width="100%" />
+  <img src="assets/stats/languages.svg?v=202611251558" alt="Programming language distribution across accessible repositories" width="100%" />
 </p>
 
-<!-- stats-updated:start -->_Stats last synced: 2026-11-24 16:15 UTC._<!-- stats-updated:end -->
+<!-- stats-updated:start -->_Stats last synced: 2026-11-25 15:58 UTC._<!-- stats-updated:end -->
 
 ## Toolbox
 
